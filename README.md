@@ -11,3 +11,8 @@ This project scans a target IP address or domain and checks for open ports using
 
 ## How to run
 python port_scanner.py
+## Example Output
+
+Enter target: scanme.nmap.org  
+Port 22 is open  
+Port 80 is open
